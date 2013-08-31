@@ -1,0 +1,2 @@
+{"ts":1377981257679,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1377981618486,"patch":[[{"diffs":[[1,"test = \"\"\"\nTrying out the\nTriple double quote\nString notation\n\"\"\"\nprint test"]],"start1":0,"start2":0,"length1":0,"length2":76}]],"length":76,"saved":false}
