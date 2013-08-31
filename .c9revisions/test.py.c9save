@@ -1,2 +1,12 @@
 {"ts":1377981257679,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
 {"contributors":[],"silentsave":false,"ts":1377981618486,"patch":[[{"diffs":[[1,"test = \"\"\"\nTrying out the\nTriple double quote\nString notation\n\"\"\"\nprint test"]],"start1":0,"start2":0,"length1":0,"length2":76}]],"length":76,"saved":false}
+{"ts":1377981771162,"patch":[[{"diffs":[[0,"\"\nprint test"],[1,"\n\n"]],"start1":64,"start2":64,"length1":12,"length2":14}]],"length":78,"saved":false}
+{"ts":1377981817097,"patch":[[{"diffs":[[0,"t test\n\n"],[1,"test = \"NRNRNR\"\nprint test*5\n"]],"start1":70,"start2":70,"length1":8,"length2":37}]],"length":107,"saved":false}
+{"ts":1377981823757,"patch":[[{"diffs":[[0,"st = \"NR"],[-1,"NRNR"],[0,"\"\nprint "]],"start1":80,"start2":80,"length1":20,"length2":16}]],"length":103,"saved":false}
+{"ts":1377982202556,"patch":[[{"diffs":[[0," test*5\n"],[1,"\ntest = \"I only want*this part*of the string\"\nprint test[10:20]"]],"start1":95,"start2":95,"length1":8,"length2":71}]],"length":166,"saved":false}
+{"ts":1377982243290,"patch":[[{"diffs":[[0,"st[1"],[-1,"0:20"],[1,"2:21"],[0,"]"]],"start1":157,"start2":157,"length1":9,"length2":9}]],"length":166,"saved":false}
+{"ts":1377982256543,"patch":[[{"diffs":[[0,"t[12:21]"],[1,"\n\n"]],"start1":158,"start2":158,"length1":8,"length2":10}]],"length":168,"saved":false}
+{"ts":1377982626393,"patch":[[{"diffs":[[0,"12:21]\n\n"],[1,"#Writing the fibonacci sequence seems to be really easy:\na, "]],"start1":160,"start2":160,"length1":8,"length2":68}]],"length":228,"saved":false}
+{"ts":1377982669989,"patch":[[{"diffs":[[0,"asy:\na, "],[1,"b = 0, 1\nwhile b < 10:\n    print b\n    a, b = b, a+b"]],"start1":220,"start2":220,"length1":8,"length2":60}]],"length":280,"saved":false}
+{"ts":1377982687564,"patch":[[{"diffs":[[0,"= b, a+b"],[1,"\n\n"]],"start1":272,"start2":272,"length1":8,"length2":10}]],"length":282,"saved":false}
+{"ts":1377982752007,"patch":[[{"diffs":[[0,"e b < 10"],[1,"00"],[0,":\n    pr"]],"start1":241,"start2":241,"length1":16,"length2":18},{"diffs":[[0," print b"],[1,","],[0,"\n    a, "]],"start1":256,"start2":256,"length1":16,"length2":17}]],"length":285,"saved":false}
