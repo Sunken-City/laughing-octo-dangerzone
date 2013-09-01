@@ -17,3 +17,5 @@ while b < 1000:
     print b,
     a, b = b, a+b
 
+asdf = ":) "
+print asdf*1000000
