@@ -18,4 +18,4 @@ while b < 1000:
     a, b = b, a+b
 
 asdf = ":) "
-print asdf*100
+print asdf*1000
