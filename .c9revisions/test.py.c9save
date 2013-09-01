@@ -13,3 +13,4 @@
 {"contributors":[],"silentsave":false,"ts":1377994652057,"patch":[[{"diffs":[[0,"b, a+b\n\n"],[1,"asdf = \":) \"\nprint asdf*1000000"]],"start1":277,"start2":277,"length1":8,"length2":39}]],"length":316,"saved":false}
 {"contributors":[],"silentsave":false,"ts":1377994748020,"patch":[[{"diffs":[[0,"asdf*100"],[-1,"0000"]],"start1":304,"start2":304,"length1":12,"length2":8}]],"length":312,"saved":false}
 {"ts":1377995060749,"patch":[[{"diffs":[[0,"sdf*1000"],[-1,"000"]],"start1":305,"start2":305,"length1":11,"length2":8}]],"length":313,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1377995401073,"patch":[[{"diffs":[[0," asdf*10"],[-1,"0"]],"start1":303,"start2":303,"length1":9,"length2":8}]],"length":311,"saved":false}
